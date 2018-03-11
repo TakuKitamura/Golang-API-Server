@@ -3,7 +3,7 @@ This repository is a template of API-Server with Golang.
 
 ## Install
 ```
-go get "github.com/labstack/echo"
+$ go get "github.com/labstack/echo"
 ```
 
 ## Run
